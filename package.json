@@ -1,0 +1,29 @@
+{
+  "name": "melements-escape-chars",
+  "version": "1.0.0",
+  "description": "A small library providing utility methods to escape and unescape HTML entities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahendraSv/melements-escape-chars.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html",
+    "entities"
+  ],
+  "author": "Mahendra Singamsetty <svmahendra@hotmail.com> (http://svmahendra.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MahendraSv/melements-escape-chars/issues"
+  },
+  "homepage": "https://github.com/MahendraSv/melements-escape-chars#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
